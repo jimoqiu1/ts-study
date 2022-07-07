@@ -1,0 +1,14 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"type": "npm",
+			"script": "install",
+			"path": "day05",
+			"group": "clean",
+			"problemMatcher": [],
+			"label": "npm: install - day05",
+			"detail": "install dependencies from package"
+		}
+	]
+}
